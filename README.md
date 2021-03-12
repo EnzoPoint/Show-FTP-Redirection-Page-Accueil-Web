@@ -9,7 +9,7 @@ Let's imagine you just bought a host and you want to make subdomains without use
 [Config .htaccess](#HTACCESS)
 
 # Setup
-
+After <br>
 # LoginFTP
-
+After <br>
 # HTACCESS
